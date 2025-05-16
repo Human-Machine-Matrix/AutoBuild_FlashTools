@@ -1,0 +1,4 @@
+* text=auto
+bin/android/zstd binary
+bin/Windows/*.dll binary
+bin/Windows/*.exe binary
